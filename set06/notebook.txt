@@ -1,0 +1,43 @@
+Date   Who       Start   Stop     Interruptions  Question  TimeOnTask     Comments
+10/24  RK,AK     01:00  02:00         0             2          60          Analyzing Question 2
+=============================committing to git 10/24   14:00 ===============================
+10/24  RK,AK     13:02  15:30         0             2         148          Thought of the logic and written 2 functions
+10/24  RK,AK     15:30  16:33         0             2          63           Written more function helpers
+=============================committing to git 10/24   16:34 =============================== 
+10/24  RK,AK     21:30  00:15         10 + 10       2         155          Finished writing function definitions 
+10/24  RK,AK     00:15  02:35                       2         140          Corrected logic in function definitions
+=============================committing to git 10/24   02:35 ===============================
+10/25  RK,AK     10:00  11:00         0             1          60          Analyzing Question 1
+10/25  RK,AK     11:00  13:00         0             1         120          Written some functions for Question 1
+=============================committing to git 10/25   13:04 ===============================
+10/25  RK,AK     16:30  19:50         0             1         200          Verified the functions for Question 1
+=============================committing to git 10/25   19:51 ===============================
+10/25  RK,AK     00:15  02:35         0             2         140          Corrected logic in function definitions
+=============================committing to git 10/25   02:35 ===============================
+10/26  RK,AK     12:10  14:00         0             2         110          Removed unnecessary invariants
+10/26  RK,AK     14:00  17:50         0             2         230          Added new functionalities using the appropriate
+                                                                           invariants.
+=============================committing to git 10/26   17:52 ===============================                  
+10/27  RK,AK     00:10  00:25         0             1          15          Added and checked qualification tests for Question 1
+10/27  RK,AK     00:25  00:40         0             2          15          Added and checked qualification tests for Question 2
+=============================committing to git 10/27   00:42 ===============================     
+10/27  RK,AK     01:00  02:30         0             2          90          Added tests
+10/27  RK,AK     02:30  03:24         0             2          54          Program Review 
+=============================committing to git 10/27   03:24 ===============================
+10/27  RK,AK     10:00  14:50         0             1          270         Final Program Review for Question 1
+=============================committing to git 10/27   15:00 ===============================
+10/27  RK,AK     15:00  15:16         0             2          16          Revised Purpose statements for Question 2
+10/27  RK,AK     15:17  15:50         0             1          33          Revised Purpose statements for Question 1
+=============================committing to git 10/27   15:52 ===============================
+10/27  RK,AK     17:00  17:10         0             1          10          Small changes made for Question 1
+=============================committing to git 10/27   17:11 ===============================
+10/27  RK,AK     17:46  17:55         0             2          9           ** Final Review **
+=============================committing to git 10/27   17:55 ===============================
+
+Total Time On Task Q1 (minutes): 708
+Total Time On Task Q2 (minutes): 1170
+
+TOTQ1(hours and tenths): 11.8
+TOTQ2(hours and tenths): 19.4
+
+ 

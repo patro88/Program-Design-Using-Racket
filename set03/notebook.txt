@@ -1,0 +1,27 @@
+Date	Who	Start	Stop	Interruptions   Question    TimeOnTask     Comments
+10/02	AK	10:00	13:10	20		1	    160            Working on Problem set 03, question 01
+									   but still have to work on this.
+================= committing to git: 9/02 13:34 ======================
+10/03	AK	13:10	18:10	40		1	    260            Working on Problem set 03, question 01
+10/03	AK	18:10	20:45	0		2	    155            Working on Problem set 03, question 02
+================= committing to git: 9/03 21:16 ======================
+10/04	AK	10:00	17:00	80		1	    340            Almost Done
+10/04	AK	17:00	19:15	0		2	    135            Working on Problem set 03, question 02
+================= committing to git: 9/04 19:16 ======================
+10/05	AK	14:00	16:40	0		1	    160            Final Checkin for Problem set 03, question 01
+================= committing to git: 9/05 16:45 ======================
+10/05	AK	17:00	23:30	0		2	    390            Final Checkin for Problem set 03, question 02
+================= committing to git: 9/05 23:40 ======================
+10/06	AK	01:00	03:00	0		1	    120            Added some more test cases for question 01
+10/06	AK	03:00	07:00	0		2	    240            Final Checking for Question 02
+================= committing to git: 9/06 07:05 ======================
+10/06	AK	14:00	14:30	0		1	    30            Minor changes, final checking for question 1
+10/06	AK	14:30	15:00	0		2	    30            Minor changes, final checking for question 2
+================= committing to git: 9/06 15:25 ======================
+									   
+Total Time On Task Q1 (minutes): 1070
+Total Time On Task Q2 (minutes): 950
+
+TOTQ1(hours and tenths): 17.8
+TOTQ2(hours and tenths): 15.8
+

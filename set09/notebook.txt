@@ -1,0 +1,36 @@
+Date	Who	Start	Stop	Interruptions   Question    TimeOnTask     Comments
+11/12	AK, KC	18:10	18:40	0		1	    20             Reading and analyzing Problem Set 09
+================= committing to git: 11/12 18:43 ======================
+11/15   AK, KC  00:30   02:30   0               1           120            Writing classes and functions
+================= committing to git: 11/15 02:40 ======================
+11/15   AK, KC  14:00   16:30   0               1           150            Updating classes and functions
+================= committing to git: 11/15 16:40 ======================
+11/15   AK, KC  20:00   22:30   30              1           120            Code Improvization and changes
+================= committing to git: 11/15 22:40 ======================
+11/16   AK, KC  01:00   03:00   20              1           100            Writind functions, methods to be used for tests
+================= committing to git: 11/16 03:10 ======================
+11/16   AK, KC  09:00   13:30   30              1           240            Writing test cases.
+================= committing to git: 11/16 13:40 ======================
+11/16   AK, KC  16:00   19:00   20              1           160            Updating the code with more tests cases and comments
+================= committing to git: 11/16 19:18 ======================
+11/16   AK, KC  20:00   21:55   0               1           115            Updated the examples
+================= committing to git: 11/16 22:10 ======================
+11/16   AK, KC  22:15   23:00   0               1           45             Made corrections in the test functions
+================= committing to git: 11/16 23:00 ======================
+11/17   AK, KC  02:00   04:30   20              1           130            Corrections and and purpose for lambda functions
+================= committing to git: 11/17 04:30 ======================
+11/17   AK, KC  10:00   12:00   0               1           120            Reverted back to old test helper functions after a clarification post on Piazza
+================= committing to git: 11/17 12:00 ======================
+11/17   AK, KC  12:30   14:00   0               1            90            UML Diagram and review of code
+================= committing to git: 11/17 14:10 ======================
+11/17   AK, KC  15:15   15:40   10              1            15            Code review
+================= committing to git: 11/17 15:42 ======================
+11/17   AK, KC  16:30   17:20   10              1            40            Small corrections in notebook and final code review
+================= committing to git: 11/17 17:21 ======================
+11/17   AK, KC  17:30   17:50   0               1            20            Final Review
+================= committing to git: 11/17 17:51 ======================
+						
+			   
+Total Time On Task Q1 (minutes): 1500
+
+TOTQ1(hours and tenths): 25.0

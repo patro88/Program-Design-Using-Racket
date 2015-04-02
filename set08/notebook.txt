@@ -1,0 +1,40 @@
+Date   Who       Start   Stop     Interruptions  Question  TimeOnTask      Comments
+11/07  KC,AK     13:30  13:50          0             1         20          Analyzing Question 1
+11/07  KC,AK     13:50  14:15          0             2         25          Analyzing Question 2
+11/07  KC,AK     14:15  14:30          0             3         15          Analyzing Question 3
+=============================committing to git 11/07   02:32 ===============================
+11/07  KC,AK     19:00  22:00          60            1         120         Analysis and Data Definitions
+11/08  KC,AK     02:00  06:00          80            1         160         Function Definitions and Test cases
+=============================committing to git 11/08   06:05 ===============================
+11/08  KC,AK     11:00  11:50          0             1         50          Minor corrections in Q1
+=============================committing to git 11/08   11:52 ===============================
+11/08  KC,AK     14:00  17:00          30            1         150         Writing contracts and purpose statements 
+11/08  KC,AK     17:00  22:15          40            2         275         Function Defintions for solution function and helpers
+=============================committing to git 11/08   22:30 ===============================
+11/09  KC,AK     10:00  13:30          30            3         180         Making changes in Q2 solution to use in Q3 
+11/09  KC,AK     14:00  15:30          0             3         90          Writing new functions where it is required
+=============================committing to git 11/09   15:45 ===============================
+11/09  KC,AK     15:40  16:00          0             1         20          Updated Comments
+=============================committing to git 11/09   16:10 ===============================
+11/09  KC,AK     18:00  21:30          0             3         210         Making changes in Q3, updated funtions
+11/10  KC,AK     00:40  02:40          0             2         120         Final Code Review for Question 1 and 2.
+                                                                           Optimized the code to work faster
+=============================committing to git 11/10   02:40 ===============================
+11/10  KC,AK     11:30  12:40          15            3         55          Review of Q3. Should write Information Analysis.
+11/10  KC,AK     12:40  13:50          10            2         60          Review of Q2. Should write Information Analysis.
+=============================committing to git 11/10   13:55 ===============================
+11/10  KC,AK     14:00  14:30          0             3         30          Wrote Information Analysis.
+11/10  KC,AK     14:35  15:05          0             2         30          wrote Information Analysis.
+=============================committing to git 11/10   15:05 ===============================
+11/10  KC,AK     17:40  17:45          0             3         5           Checking indentation and longest line
+11/10  KC,AK     17:45  17:50          0             2         5           Checking indentation and longest line
+=============================committing to git 11/10   17:53 ===============================
+
+Total Time On Task Q1 (minutes): 520
+Total Time On Task Q2 (minutes): 515
+Total Time On Task Q3 (minutes): 585
+
+TOTQ1(hours and tenths): 8.7
+TOTQ2(hours and tenths): 8.6
+TOTQ3(hours and tenths): 9.8
+ 

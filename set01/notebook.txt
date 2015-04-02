@@ -1,0 +1,53 @@
+Date	Who	Start	Stop	Interruptions   Question    TimeOnTask     Comments
+9/18	AK	07:00	13:30	30+15		1	    345            Working on Problem set 01, quesiton 01
+									   but still have to work on this.
+================= committing to git: 9/18 13:30 ======================
+9/19    AK      11:35   14:38    40             2           143            Working on Problem set 01, quesiton 02
+									   almost done but need to use slide concepts.
+================= committing to git: 9/19 14:46 ======================
+9/19    AK      14:50   17:30    20             3           140            Working on Problem set 01, quesiton 03. Need
+									   to use the template
+================= committing to git: 9/19 17:32 ======================
+9/20    AK      17:00   20:30    30             1           180            Working on Problem set 01, quesiton 01. 
+									   Modifying problem according to recipie.
+================= committing to git: 9/20 23:00 ======================
+9/20    AK      22:00   01:30    50             1           160            Working on Problem set 01, quesiton 01. 
+									   Modifying problem according to recipie.
+9/21    AK      02:00   03:00    0              4           60             Working on Problem set 01, quesiton 04. 
+									   Created State Diagram.
+================= committing to git: 9/21 03:45 ======================
+9/21    AK      14:00   17:00    0              4           180            Working on Problem set 01, quesiton 04.   
+9/21    AK      17:00   18:00    0              4           60             Working on Problem set 01, quesiton 04. 
+									   Modified State Diagram.
+================= committing to git: 9/21 18:20 ======================
+9/21    AK      21:00   23:00    0              4           120            Modifying Problem set 01, quesiton 04.   
+9/21    AK      23:00   00:50    0              3           110            Modifying Problem set 01, quesiton 03.			  
+================= committing to git: 9/22 00:54 ======================
+9/22    AK      01:00   01:50    10             1           50             Modifying Problem set 01, quesiton 01.   
+9/22    AK      02:00   02:45    0              2           45             Modifying Problem set 01, quesiton 02. 
+9/22    AK      03:00   03:40    0              4           40             Modifying Problem set 01, quesiton 04. 
+================= committing to git: 9/22 03:40 ======================
+9/22    AK      12:00   12:20    0              2           20             Modifying Problem set 01, quesiton 02.
+                                                                           added test cases
+================= committing to git: 9/22 12:25 ======================
+9/22    AK      12:20   12:40    0              2           20             Modifying Problem set 01, quesiton 02.
+                                                                           added examples
+================= committing to git: 9/22 12:25 ======================
+9/22    AK      15:30   15:32    0              1           02             Modifying Problem set 01, quesiton 01.   
+9/22    AK      15:32   15:35    0              2           03             Modifying Problem set 01, quesiton 02.   
+9/22    AK      15:35   15:40    0              4           02             Modifying Problem set 01, quesiton 04.   
+================= committing to git: 9/22 15:42 ======================
+9/22    AK      16:20   16:22    0              1           02             Modifying Problem set 01, quesiton 01.   
+9/22    AK      16:22   16:24    0              2           02             Modifying Problem set 01, quesiton 02.   
+9/22    AK      16:24   16:47    0              3           03             Modifying Problem set 01, quesiton 03.   
+================= committing to git: 9/22 16:28 ======================
+
+Total Time On Task Q1 (minutes): 739
+Total Time On Task Q2 (minutes): 233
+Total Time On Task Q3 (minutes): 253
+Total Time On Task Q4 (minutes): 462
+
+TOTQ1(hours and tenths): 12.3
+TOTQ2(hours and tenths): 3.8
+TOTQ3(hours and tenths): 4.1
+TOTQ4(hours and tenths): 7.6

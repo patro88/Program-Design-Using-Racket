@@ -1,0 +1,30 @@
+Date	Who	Start	Stop	Interruptions   Question    TimeOnTask     Comments
+11/26	AK, KC	02:00	05:20	20		1	    180            Modifying Problem Set 09 as per new requirement
+================= committing to git: 11/26 05:23 ======================
+11/26   AK, KC  19:00   22:22   22              1           180            Updating test cases for Question 1
+================= committing to git: 11/26 22:25 ======================
+11/27   AK, KC  19:00   23:40   0               2           280            Working on Question 2
+================= committing to git: 11/27 23:42 ======================
+11/29   AK, KC  09:00   12:10   0               2           190            Updated functionality for Question 2
+================= committing to git: 11/29 12:13 ======================
+11/30   AK, KC  01:00   03:45   0               2           165            Added some missing functionality
+================= committing to git: 11/30 03:45 ======================
+11/30   AK, KC  05:00   07:25   0               1           145            Updated comments and test cases
+================= committing to git: 11/30 07:30 ======================
+12/01   AK, KC  08:00   10:00   0               2           120            Added more test cases
+12/01   AK, KC  10:00   11:24   0               1            85            Updated the comments
+================= committing to git: 12/01 11:25 ======================
+12/01   AK, KC  12:00   12:30   0               2            30            Added UML diagram for question 1
+12/01   AK, KC  12:30   13:00   0               1            30            Added UML diagram for question 2
+================= committing to git: 12/01 13:05 ======================
+12/01   AK, KC  15:45   16:00   0               1            15            Final update for question 1
+12/01   AK, KC  15:30   15:45   0               2            15            Final update for question 2
+================= committing to git: 12/01 16:10 ======================
+12/01   AK, KC  16:30   16:38   0               2             8            Small correction
+================= committing to git: 12/01 16:10 ======================
+			   
+Total Time On Task Q1 (minutes): 635
+Total Time On Task Q2 (minutes): 818
+
+TOTQ1(hours and tenths): 10.6
+TOTQ2(hours and tenths): 13.6

@@ -1,0 +1,40 @@
+Date   Who       Start   Stop     Interruptions  Question  TimeOnTask     Comments
+10/31  RK,AK     18:00  18:30          0             1         30          Analyzing Question 1
+10/31  RK,AK     18:30  19:04          0             1         34          Finished 1 function definition
+=============================committing to git 10/31   19:05 ===============================
+11/1   RK,AK     15:00  16:49          0             1        109          Finished all fund defs for 1
+11/1   RK,AK     16:49  18:40          0             1        111          Converted into general recursion
+=============================committing to git 11/1    18:41 ===============================
+11/1   RK,AK     11:00  01:30          0             1        150          Finished writing 90% tests
+11/2   RK,AK     01:30  02:02          0             1         32          Rectified one function logic
+=============================committing to git 11/2    02:03 =============================== 
+11/2   RK,AK     02:15  02:43          0             1         28          100% coverage done
+11/2   RK,AK     02:43  03:00          0             2         17          Analyzed Q2
+=============================committing to git 11/2    03:00 ===============================
+11/2   RK,AK     12:00  15:51          0             2         231         Written some function definitions 
+=============================committing to git 11/2    15:52 =============================== 
+11/2   RK,AK     16:00  18:00          0             1         120         Working on Question 1  
+=============================committing to git 11/2    18:05 =============================== 
+11/2   RK,AK     19:30  21:12          0             2         102         Changed Implementation for efficiency
+=============================committing to git 11/2    21:13 ===============================
+11/2   RK,AK     21:30  21:35          0             1         5           Updated code
+11/2   RK,AK     21:35  21:45          0             2         10          Changed Implementation for efficiency
+=============================committing to git 11/2    21:47 ===============================
+11/3   RK,AK     04:00  06:45          0             2         165         Modified some part for efficiency
+11/3   RK,AK     06:45  07:05          0             1         20          Done cosmetic changes
+=============================committing to git 11/3    07:15 ===============================
+11/3   RK,AK     11:00  12:02          0             2         62          Added Purpose statements
+=============================committing to git 11/3    12:03 ===============================
+11/3   RK,AK     16:00  17:45          0             2         95          Final Code Review
+11/3   RK,AK     17:45  17:50          0             1         5           Final Code Review
+=============================committing to git 11/3    17:50 ===============================
+11/3   RK,AK     17:50  17:55          0             2         5           Final Code Review
+=============================committing to git 11/3    17:55 ===============================
+
+Total Time On Task Q1 (minutes): 643
+Total Time On Task Q2 (minutes): 687
+
+TOTQ1(hours and tenths): 10.8
+TOTQ2(hours and tenths): 11.3
+
+ 

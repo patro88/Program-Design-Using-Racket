@@ -1,0 +1,38 @@
+Date   Who       Start   Stop     Interruptions  Question  TimeOnTask     Comments
+10/15  RK,AK     11:00   12:00    0                  1        60          Thinking about the abstractions to use for Q1
+10/15  RK,AK     12:00   13:19    0                  1        79          Written certain functions definitions.
+=============================committing to git 10/15   13:21 ===============================
+10/17  RK,AK     13:00   15:00    0                  1        120         Written Key Event definitions
+10/17  RK,AK     15:00   19:30    0                  1        150         Corrected key event functions . working on mouse event funds
+10/17  RK,AK     19:30   20:22    0                  1        52          Written mouse event down and up functions
+=============================committing to git 10/17   20:22 ===============================
+10/18  RK,AK     12:32   14:04    0                  1        92          Corrected function definitions for drawing on canvas
+10/18  RK,AK     14:04   16:48    0                  1        164         Written mouse up and down events
+=============================committing to git 10/18   16:49 ===============================           
+10/18  RK,AK     20:00   22:36    0                  1        156         Code working correctly, modifying redundant functions
+=============================committing to git 10/18   22:40 ===============================    
+10/19  RK,AK     12:00   13:40    0                  1        100         Finished generalizing all list functions.
+10/19  RK,AK     13:40   15:07    0                  1        107         Finished writing 90% test cases.
+10/19  RK,AK     15:07   15:13    0                  1        06          Checked qualification tests.
+=============================committing to git 10/19   15:14 ===============================
+10/19  RK,AK     18:00   18:48    0                  1        48          Added tests
+10/19  RK,AK     18:48   19:50    0                  1        62          Finished writing all tests
+=============================committing to git 10/19   19:51 =============================== 
+10/20  RK,AK     01:00   01:28    0                  1        28          Changed object names from trees with nodes.
+=============================committing to git 10/20   01:32 =============================== 
+10/20  RK,AK     03:00   07:50    0                  1        290         Final checking and cosmetic changes
+=============================committing to git 10/20   07:54 =============================== 
+10/20  RK,AK     14:10   15:00    5                  1        45          Program Review
+10/20  RK,AK     15:00   16:45    0                  1        105         Final review and Checking
+=============================committing to git 10/20   16:46 ===============================
+10/20  RK,AK     17:00   17:23    0                  1        17          Removed unnecessary data definitions and final check-in.
+=============================committing to git 10/20   17:24 ===============================
+10/20  RK,AK     17:39   17:40    0                  1         1          Final Checkin
+=============================committing to git 10/20   17:40 ===============================
+
+
+Total Time On Task Q1 (minutes): 1690
+
+TOTQ1(hours and tenths): 28.1
+
+ 
