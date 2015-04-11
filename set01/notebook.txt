@@ -47,7 +47,7 @@ Total Time On Task Q2 (minutes): 233
 Total Time On Task Q3 (minutes): 253
 Total Time On Task Q4 (minutes): 462
 
-TOTQ1(hours and tenths): 12.3
+TOTQ1(hours and tenths): 4444
 TOTQ2(hours and tenths): 3.8
 TOTQ3(hours and tenths): 4.1
 TOTQ4(hours and tenths): 7.6
